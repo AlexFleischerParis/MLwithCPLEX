@@ -1,3 +1,0 @@
-CSVConnection csvinput("letter-recognition.data?firstIsHeader=false", "");
-data from CSVRead(csvinput, "");
-
