@@ -5,6 +5,12 @@
 			<ref name="iriskmeans.mod" type="model">
 			</ref>
 		</config>
+		<config default="false" name="letterkmeans" category="opl">
+			<ref name="letterkmeans.mod" type="model">
+			</ref>
+			<ref name="letterkmeans.dat" type="data">
+			</ref>
+		</config>
 	</configs>
 	
 </project>
