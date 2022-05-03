@@ -1,4 +1,4 @@
-using CP;
+using CP; // Constraint Programming
 
 tuple datatype
 {
